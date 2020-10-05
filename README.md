@@ -3,3 +3,4 @@ Make your first PR! ~ A beginner-friendly repository. Add your profile, a blog, 
 
 Add this thing!!!
 Also add this thing!!! :)
+Finally add this last thing :D
