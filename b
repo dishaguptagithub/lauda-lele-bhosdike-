@@ -12,7 +12,7 @@ body {
 
 .f{
 	color: #0e385f;
-    font-size: 20px;
+    font-size: 210px;
     font-weight: bold;
     line-height: 29px;
     margin-top: 40px;
